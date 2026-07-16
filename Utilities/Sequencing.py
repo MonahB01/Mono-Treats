@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 from bioblend.galaxy import GalaxyInstance
+repo = os.path.expanduser("~/Documents/GitHub/MonoSolutions/")
 
 #%%------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Static utilities
